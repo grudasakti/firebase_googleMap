@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas4</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="latitude">Latitude</string>
+    <string name="longtitude">Longtitude</string>
+    <string name="action_save">Save</string>
+</resources>

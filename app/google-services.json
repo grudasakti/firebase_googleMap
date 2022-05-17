@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692342039089",
+    "firebase_url": "https://gmapsfirebase-c8c46-default-rtdb.firebaseio.com",
+    "project_id": "gmapsfirebase-c8c46",
+    "storage_bucket": "gmapsfirebase-c8c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692342039089:android:fb730ce21fa8b695afeb10",
+        "android_client_info": {
+          "package_name": "com.example.tugas4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692342039089-bt4jqqj7l2lf356c2s12k88tlvk4ptlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACeWMZ-qdi3Yna8COTABui7XpppodRxaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692342039089-bt4jqqj7l2lf356c2s12k88tlvk4ptlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
